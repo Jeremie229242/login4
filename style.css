@@ -9,7 +9,7 @@
 }
 body{
     /* background: linear-gradient(#b8abea,#907cd4,#6c4be2); */
-    background: url("images/99.jpg");
+    background: url("img/log.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -88,7 +88,7 @@ body{
 .input-box:focus ~ label,.input-box:valid ~ label{
     top: 2px;
     font-size: 10px;
-    color: #c12828;
+    color: #00B3;
     font-weight: 500;
 }
 .remember{
@@ -108,14 +108,14 @@ body{
     font-weight: 500;
     border: none;
     border-radius: 10px;
-    background: #bc6202;
+    background: #00B3;
     color: #fff;
     box-shadow: 0px 4px 20px rgba(62, 9, 9, 0.144);
     cursor: pointer;
     transition: .4s;
 }
 .input-submit:hover{
-    background:  #db3e00;
+    background:  #00B300;
     box-shadow: 0px 4px 20px rgba(62, 9, 9, 0.32);
 }
 .forgot{
